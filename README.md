@@ -24,3 +24,25 @@ Creating objects with C++ is more involved than with other languages I’ve work
 How did you make this program maintainable, readable, and adaptable?
 
 With this program, as with all programs I write, I use proper variable names and comments. Writing code that is easy to read and understand is an incredibly important aspect of being a programmer. Writing clean code cuts down on time and management, and it streamlines the process for anyone who works on that code.
+
+CS 230
+The Gaming Room 
+
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+What did you do particularly well in developing this documentation?
+What about the process of working through a design document did you find helpful when developing the code?
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+The Gaming Room client wanted to create a game that would work on multiple operating systems. We created a cloud-based system and made the game cross-platform compatible. One of the things that went well with development was security. It was easy to apply concepts like the principle of least privilege. The document was helpful in laying out requirements and ideas in a well-thought-out and sophisticated manner. One thing that would have made things a little simpler is if there was a backlog included showing the progress of the tasks worked on. The client itself meets customer needs by requiring less hardware than a traditional platform because we used a cloud-based system. Many tools were available to help create and maintain the cloud-based platform, such as restful and other types of architectures. In the future, I plan to continue using architectures, APIs, and other tools to help me succeed in the development and production of software. 
+
+CS 250
+SDLC
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+What does it mean to be a good team member in software development?
+
+This document is a sprint review and retrospective for a vacation booking app. User stories are created from interviews with customers and consumers and provide insight into the functions and features desired by them. Stories are then translated into tasks on the backlog to be developed by the team. Agile has many great practices and processes for development. Some that stand out to me are the product backlog, daily stand up, and sprint review. Being a good team member means supporting your team by accomplishing the tasks you set out to do, and communication. Communication is the most important as one miscommunication can potentially derail the project. 
+
