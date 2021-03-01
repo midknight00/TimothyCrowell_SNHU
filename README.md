@@ -92,4 +92,29 @@ I ran tests on the code and looked at examples for similar errors. Running the d
 
 Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
 
-From this project, I would like to demonstrate the ability to add encryption algorithms and the ability to create certificates. I would also like to show my ability to refactor a codebase to determine and deal with vulnerabilities within a system.
+From this project, I would like to demonstrate the ability to add encryption algorithms and the ability to create certificates. I would also like to show my ability to refactor a codebase to determine and deal with vulnerabilities within a system.\
+
+320 
+
+How can I ensure that my code, program, or software is functional and secure?
+How do I interpret user needs and incorporate them into a program?
+How do I approach designing software?
+
+I can ensure that my code is functional and secure by applying software testing techniques such as code coverage and unit testing. Testing involves detecting and dealing with defects and possibly unwanted effects within developed code. When testing, testing every possible aspect of the code would theoretically attain one hundred percent code coverage, however this is fundamentally impossible and becomes a huge strain on resources. It is recommended to achieve roughly seventy percent for maximum benefit. Unit testing involves testing small modular aspects of code and making sure that the code is meeting the requirements it’s supposed to. This ensures that the code functions as expected while being able to meet the users and customers needs. Designing software should be a modulare process. Building code in chunks allows them to be adapted as necessary for future development later. These sets of code are more accurate and less time consuming to use because they have already been used to meet requirements.
+
+330
+
+How do I approach designing software?
+What new design skills has your work on the project helped you to craft?
+What design process did you follow for your project work?
+How could tactics from your design approach be applied in future work?
+How do I approach developing programs?
+What new development strategies did you use while working on your 3D scene?
+How did iteration factor into your development?
+How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+How can computer science help me in reaching my goals?
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+
+I have gained a greater understanding and grasp of 3D mesh creation and modeling. I followed a modular design approach that allowed me to change and adjust sections of code as needed. Modular code allows programs to function better with less effort spent on creation and functionality and more focus on implementation. For my scene, There was a lot of 3-Dimensional space calculation that was new to me. Learning how to arrange points of a plane into code was slightly challenging. Iteration was used for the render loop, always checking and redrawing the scene each tick of the render loop. I now have a stronger grasp of graphical aspects and how they interact with each other in a scene. If in the future I am working with graphical components, I hope that learning about movement, lighting, texturing, and the three dimensional space will be useful to me.
+
