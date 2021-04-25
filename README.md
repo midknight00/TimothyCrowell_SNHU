@@ -118,3 +118,44 @@ How do computational graphics and visualizations give you new knowledge and skil
 
 I have gained a greater understanding and grasp of 3D mesh creation and modeling. I followed a modular design approach that allowed me to change and adjust sections of code as needed. Modular code allows programs to function better with less effort spent on creation and functionality and more focus on implementation. For my scene, There was a lot of 3-Dimensional space calculation that was new to me. Learning how to arrange points of a plane into code was slightly challenging. Iteration was used for the render loop, always checking and redrawing the scene each tick of the render loop. I now have a stronger grasp of graphical aspects and how they interact with each other in a scene. If in the future I am working with graphical components, I hope that learning about movement, lighting, texturing, and the three dimensional space will be useful to me.
 
+CS 340 Client/Server Development
+
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+For software developers, a large part of development is making sure that the code can be used to the fullest in the most efficient way. Part of the way we do this is by creating modular code. Modular code can be used and adapted to many programs easily and quickly. An example of this is how each part of the CRUD operations is handled by its own method. With the CRUD Python module, any combination of crud operations can be run independently of one another. If I just needed a program that can create database entries, this module can be applied to the program to do just that.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+In addition to building programs to be modular, it also helps to develop in a modular manner. I start with the base components, what's going to be working directly with the data. I then develop each function separately and then put them together for testing. After that we move to the next level, the client/server level. At this point, the main program should be ready to be integrated into the client/server host. Developing like this makes it easy to find and fix mistakes and errors.
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer scientists do many things that it would be impossible to list them all off. In today's society everything has been enhanced by technology and computers. Even farmers use incredibly advanced high tech to mow their fields. Without computer scientists there to facilitate the growth and creation of computers, our current world would fall apart. As powerful as software and technology is, it can be used to create immense harm or damage. Developers have a responsibility to provide safe software for clients and users and to protect them from malicious acts.
+
+
+CS 360 Mobile Architect and Programming
+
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+
+Event app is a calendar app that tracks the user's events.
+
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+
+The app has three pages, a login screen, main events screen, and a preferences screen. The login screen is simple and allows users to create a login if they don’t have one. The events screen is laid out in a neat grid with buttons on the left for changing events, and an add button on the bottom. The preferences screen is a simple list with a few options. I think my design was fairly successful, but was by no means perfect.
+
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
+
+When developing software I take a modular approach, designing one aspect at a time then testing. This allows integration of new features to be smooth and simple. All projects should be completed this way as it promotes strong modular code that is free of errors. 
+
+How did you test to ensure your code was functional? Why is this process important and what did it reveal?
+
+Testing is important because it reveals mistakes and defects in code. Testing as you go along makes it easy to determine what is creating the problem and thus takes less time and energy to fix. When testing my app, I got a strange error where the app would launch then immediately close.
+
+Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
+	
+There were many times during development that I had to overcome a challenge. One of the biggest was with getting the buttons to handle the data there assigned to. Each button had its own method that requested specific information from the database.
+	
+In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+
+I think the best part of my app is the design layout. I spent a long time structuring and nesting layouts so they would look good and compliment each other. I think there is always room for growth and improvement, and one specific area of the design that needed more work was the app bar. 
+
