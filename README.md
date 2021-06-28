@@ -160,35 +160,55 @@ In what specific component from your mobile app were you particularly successful
 I think the best part of my app is the design layout. I spent a long time structuring and nesting layouts so they would look good and compliment each other. I think there is always room for growth and improvement, and one specific area of the design that needed more work was the app bar. 
 
 CS 370
+
 Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+
 For this project I used a deep Q-network, or a DQN to help a pirate solve a maze. Initially I was given the network, several variables, and supporting scripts to help me get started.
+
 Connect your learning from throughout this course to the larger field of computer science:
 What do computer scientists do and why does it matter?
+
 Two of the biggest reasons computer scientists write code are to solve problems or to automate a task. Both of these can be applied to a wide variety of applications in almost every field.
+
 How do I approach a problem as a computer scientist?
+
 As a computer scientist, one of the most important tools that we have when writing code is data. It’s important to consider all possible data and the effects it can have on the code, especially when working with learning algorithms. Sometimes more data isn’t always the answer, making it vital to understand the data you have and how to use it to solve problems.
+
 What are my ethical responsibilities to the end user and the organization?
+
 One of the most important things to remember when working with data is transparency. As a developer, users trust us with their data when they use systems we create. Informing users of how data is being used, and what data is being recorded opens up trust and reliability for that system and thus the producers and developers.	
 
 CS 465
 
 Architecture
+
 Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
+
 Express is a Node js. Framework and uses JavaScript to handle HTTP requests and routes. The SPA provides a page for administration and easy site editing. While Express is a more limited approach, SPAs can offer lots of functionality and modularity. 
+
 Why did the backend use a NoSQL MongoDB database?
+
 NoSQL is the choice of database because it functions best when the connected databases have no relation to one another. NoSQL provides a dynamic schema that works well with JSON.
 
 Functionality
+
 How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces?
+
 JSON follows a specific file pattern and syntax and is used to store and transfer data. Javascript is java code that works with the server to provide the site with various features like adding or removing trips.
+
 Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.
+
 One of the components that was refactored was the trip data. It was refactored into JSON to make it suitable for our mongoose database. By doing this, we are able to use mongoose commands to pull data from the database to the website. Another thing we did was refactor the routes. We added separate routes for the front end and back end, separating their access.
 
 Testing
+
 Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
+
 The API endpoint is the portion of the system that interacts with the API, in our case the url. The url requests the necessary API data to perform various functions like drawing data from the database with a GET or PUT. We use components to add custom methods that allow adding and editing of the trips as well as authentication between the server and client.
 
 Reflection
+
 How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+
 This course has opened my eyes to new ways and forms of development. Before the course, I had no idea of the depth and complexity websites can have and how modular they can be made. There were many topics that we covered that I want to explore further to get a better understanding of, but for my first introduction into fullstack development, I can say that I’ve grown a lot as a programmer.
 
